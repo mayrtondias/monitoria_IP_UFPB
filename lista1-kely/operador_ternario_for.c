@@ -3,7 +3,7 @@
 
 /*Esse codigo tem com objetivo mostrar o funcionamento 
 do operador ternario so que nesse caso foi tambem 
-incluido um laco de repeticao for*/
+incluido um laco de repeticao for */
 
 int main(){
 	

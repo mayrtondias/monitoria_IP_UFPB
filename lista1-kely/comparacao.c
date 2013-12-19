@@ -50,7 +50,7 @@ int main(){
 	nesse caso e verdadeiro o que torna toda expressao verdadeiro visto que temos
 	o operador ||(ou/or) que para ser verdadeiro necesita que apenas um dos operandos
 	seja verdadeiro, mas observe que a segunda parte da expressao sera verdadeira,
-	pois o valor de k e maior que o valor 2.*/
+	pois o valor de k e maior que o valor 2. */
 	if(i<j||2>=k){
 		printf("o valor da expressao (i<j||2>=k) e verdadeira\n");
 	}else{

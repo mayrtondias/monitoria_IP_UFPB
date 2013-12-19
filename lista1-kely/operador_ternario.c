@@ -15,7 +15,8 @@ int main(){
 	ou seja, o perador ternario que esta no primeiro parenteses so' sera'
 	exercutado se o valor da variavel a for menor do que o valor da variavel b
 	caso contrario será exercutado operador ternario que se encontra no segundo 
-	parentes*/
+	parentes
+	*/
 	
 	x = a < b ? a < c ? a : c : b < c ? b : c;
 	
