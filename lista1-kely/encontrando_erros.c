@@ -35,3 +35,17 @@ int main(){
 	return 0;
 }
 */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+	int x;
+	if (x==0)
+		break;
+	else
+		printf("X nao e zero \n");
+	system("PAUSE");
+	return 0;
+}
+
