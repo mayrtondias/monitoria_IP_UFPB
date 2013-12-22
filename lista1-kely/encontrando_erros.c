@@ -17,7 +17,7 @@ int main(){
 	return 0;
 }
 
---------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 ja no trecho abaixo foi declarado uma variavel do tipo float com o 
 identificador nomeado como int o que gerará um error, pois int e uma
 palavra reservada da linguagem e nao podemos usar essas palavras 
@@ -35,7 +35,7 @@ int main(){
 	return 0;
 }
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 nesse caso podemos observar que foi usado um break dentro do bloco de 
 um if o que causara um erro visto que o if e uma estrutura de selecao 
@@ -56,5 +56,30 @@ int main(){
 		printf("X nao e zero \n");
 	system("PAUSE");
 	return 0;
-}*/
+}
+
+-----------------------------------------------------------------------------
+
+no exemplo abaixo, pode-se notar que foi inserido um else dentro de uma estrutura
+de condicao swtch-case o que causara um erro, pois o else esta relacionado com 
+if, uma forma de reverrter esse erro seria substituir o else por default, fazendo
+com que qualquer valor diferente de 1 e 2 seja exercutado, o bloco e relacionado 
+com default do swtch-case.
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(){
+	
+	int x;
+	
+	switch (x){
+		case 1: printf("um"); break;
+		case 2: printf("dois"); break;
+		else: printf("Nem um nem dois");
+	}
+	
+	system("PAUSE");
+	return 0;
+}
+*/
 
