@@ -34,7 +34,16 @@ int main(){
 	system("PAUSE");
 	return 0;
 }
-*/
+
+------------------------------------------------------------------------
+
+nesse caso podemos observar que foi usado um break dentro do bloco de 
+um if o que causara um erro visto que o if e uma estrutura de selecao 
+e nao uma estrutura de repeticao como o while, do-while e for, outro 
+ponto que podemos notar e que a variavel x nao foi inicializada, o que 
+fara na maioria das vezes ser diferente de zero, e dessa forma sera 
+exercutada o bloco correspondente ao else, no entanto, o codigo nao 
+deixara de ser compilado por esse ultimo fato.
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -47,5 +56,5 @@ int main(){
 		printf("X nao e zero \n");
 	system("PAUSE");
 	return 0;
-}
+}*/
 
