@@ -21,21 +21,19 @@ int main(){
 	
 	do{
     	printf("Digite o segundo numero inteiro positivo: \n");
-        scanf("%f",&auxiliar);
+        scanf("%f", &auxiliar);
     }while((auxiliar!=(int)auxiliar)||(auxiliar<=0));
 	
 	B=auxiliar;
 	
-	printf("O valor de A: %d \nO valor de B: %d \n",A,B);
-	
 	if(A<=B){
 		for(i=A;i<=B;++i){
-			if((A%2)==0){
-				soma+=i;
+			if((i%2)==0){
+				soma+=i; //soma dos pares entre A e B.
 			}
 		}
+		printf("A soma dos numeros pares entre %d e %d e igual a: %d\n", A, B, soma);
 	}
 	
-	printf("soma %d", soma);
 	return 0;
 }
