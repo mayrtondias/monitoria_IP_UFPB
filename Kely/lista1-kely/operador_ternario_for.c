@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*Esse codigo tem com objetivo mostrar o funcionamento 
-do operador ternario so que nesse caso foi tambem 
+do operador ternario, so que nesse caso foi tambem 
 incluido um laco de repeticao for */
 
 int main(){
@@ -10,7 +10,7 @@ int main(){
 	int x;
 	
 	/*observe os valores da variavel x em cada interacao
-	1° interacao:
+	1ï¿½ interacao:
 	antes:
 	o valor de x e igual a 0
 	imprime:
@@ -18,7 +18,7 @@ int main(){
 	depois:
 	o valor de x e igual a 2
 	
-	2° interacao:
+	2ï¿½ interacao:
 	antes:
 	o valor de x e igual a 2
 	imprime:
@@ -26,7 +26,7 @@ int main(){
 	depois:
 	o valor de x e igual a  4
 	
-	3° interacao:
+	3ï¿½ interacao:
 	antes:
 	o valor de x e igual a 4
 	imprime:
@@ -34,7 +34,7 @@ int main(){
 	depois:
 	o valor de x e igual a 1
 	
-	4° interacao:
+	4ï¿½ interacao:
 	antes:
 	o valor de x e igual a 1
 	imprime:
@@ -42,7 +42,7 @@ int main(){
 	depois:
 	o valor de x e igual a 3
 	
-	5° interacao:
+	5ï¿½ interacao:
 	antes:
 	o valor de x e igual a 3
 	imprime:
@@ -50,7 +50,7 @@ int main(){
 	depois:
 	o valor de x e igual a 5
 	
-	Antes da 6° interacao para, pois o valor de x e maior que 4
+	Antes da 6ï¿½ interacao para, pois o valor de x e maior que 4
 	*/
 	
 	for (x=0;x <=4; x++){
