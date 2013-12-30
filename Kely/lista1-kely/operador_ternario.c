@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*
-Esse codigo tem com objetivo mostrar o funcionamento do operador ternario
+Esse codigo tem com objetivo mostrar o funcionamento do operador ternario.
 */
 
 int main(){
@@ -14,7 +14,7 @@ int main(){
 	x = a < b ?( a < c ? a : c ): (b < c ? b : c);
 	ou seja, o perador ternario que esta no primeiro parenteses so' sera'
 	exercutado se o valor da variavel a for menor do que o valor da variavel b
-	caso contrario será exercutado operador ternario que se encontra no segundo 
+	caso contrario serï¿½ exercutado operador ternario que se encontra no segundo 
 	parentes
 	*/
 	
