@@ -13,7 +13,7 @@ int main(){
 	/*podemos notar que nesse exemplo foi declarada uma variavel
 	do tipo int, mas na chamanda da funcao scanf foi passado na 
 	string de formatacao %f no lugar do %i, o que causa um efeito
-	no valor armazenado e mostrado, nao esperado pelo programador
+	no valor armazenado e mostrado, nao esperado pelo programador.
 	*/
 	printf("Introduza um numero");
 	scanf("%f", &n);
