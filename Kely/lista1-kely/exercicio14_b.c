@@ -15,16 +15,16 @@ int main(){
 	float auxiliar; 
 	
 	do{
-    	printf("Digite o primero numero inteiro positivo: \n");
-        scanf("%f",&auxiliar);
-    }while((auxiliar!=(int)auxiliar)||(auxiliar<=0));
+	    	printf("Digite o primero numero inteiro positivo: \n");
+	        scanf("%f",&auxiliar);
+	}while((auxiliar!=(int)auxiliar)||(auxiliar<=0));
 	
 	A=auxiliar;
 	
 	do{
-    	printf("Digite o segundo numero inteiro positivo: \n");
-        scanf("%f", &auxiliar);
-    }while((auxiliar!=(int)auxiliar)||(auxiliar<=0));
+    		printf("Digite o segundo numero inteiro positivo: \n");
+                scanf("%f", &auxiliar);
+    	}while((auxiliar!=(int)auxiliar)||(auxiliar<=0));
 	
 	B=auxiliar;
 	
