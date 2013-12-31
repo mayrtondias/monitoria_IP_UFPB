@@ -6,7 +6,7 @@ inteiro positivo ao usuario.Ao armazenar os dois valores
 sera feita uma comparacao se A<=B, caso seja verdadeiro, 
 entao o programa ira somar todos os numeros pares entre
 os mesmos, caso contrario ele ira somar todos os impares 
-entre B e A.
+entre B e A. 
 */
 
 int main(){
