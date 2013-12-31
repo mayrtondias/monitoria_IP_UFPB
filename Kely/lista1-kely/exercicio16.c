@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar uma data ao usuario. 
+/* Esse trecho de codigo ira solicitar uma data ao usuario. 
 Sendo que o fomato desejado e DD/MM/AAAA, caso a data nao exita
 sera impressa data Invalida.
 */
