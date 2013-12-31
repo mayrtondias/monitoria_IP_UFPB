@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 Ao armazenar o valor do numero, sera impresso o valor de elemento 
 da sequencia de Fibonacci.
 */
