@@ -2,7 +2,7 @@
 da Universidade Federal da Paraiba
 */
 
-//Exercício 13
+//Exercicio 13
 
 #include <stdio.h>
 #include <stdlib.h>
