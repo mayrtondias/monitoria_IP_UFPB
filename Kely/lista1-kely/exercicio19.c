@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar varios numeros inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar varios numeros inteiro ao usuario.
 quando o usuario inserir um valor negativo o programa retornara o maior
 e menor digitado.
 */
