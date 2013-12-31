@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 Ao armazenar o valor do numero, sera impresso todos os valores 
 maiores e que nao seja multiplos de 3 do numero armazenado. 
 a sequencia de valores ira para ao encontramos o primeiro valor
@@ -24,7 +24,7 @@ int main(){
 	while(1){//laco infinito
 		
 		if((numero%10)==0){
-			break; //finalizar o laço
+			break; //finalizar o laï¿½o
 		}
 		
 		if((numero%3)==0){
