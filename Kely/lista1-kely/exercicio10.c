@@ -5,7 +5,7 @@
 de tal forma, que ele ira calcular se o numero inserido e par ou impar.
 caso o numero seja para e programa mostrar o resultado do fatorial 
 desse numero, caso o numero seja impar ele mostrar o resultado da potencia
-do numero elevado a ele mesmo.
+do numero elevado a ele mesmo. 
 */
 
 int main(){
