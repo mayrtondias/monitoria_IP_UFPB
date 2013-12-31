@@ -19,7 +19,7 @@ int main(){
         scanf("%f",&auxiliar);
     }while((auxiliar!=(int)auxiliar)||(auxiliar<0000)||(auxiliar>9999));
 	
-	//separando os digitos
+	//separando os digitos do numero inserido
 	numero=auxiliar;
 	uMilhar=numero/1000;
 	resto=numero%1000;
