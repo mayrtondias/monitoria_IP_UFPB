@@ -4,7 +4,7 @@
 /*
 Esse programa tem como objetivo mostrar o comportamento de alguns operadores,
 ou seja, suas propriedades, dessa forma sao avaliadas algumas expressoes com
-o o if-else a fim de observar se as mesmas s�o verdadeiras ou falsa. 
+o o if-else a fim de observar se as mesmas s�a verdadeiras ou falsa. 
 */
 
 int main(){
