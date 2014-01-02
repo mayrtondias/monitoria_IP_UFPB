@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar dois numeros
+/* Esse trecho de codigo ira solicitar dois numeros
 inteiro positivo ao usuario.Ao final ira mostrar 
 a soma todos os primos entre os mesmos.
 */
