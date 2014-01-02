@@ -23,7 +23,7 @@ int main(){
 	    
 	while(contador<=numero){
 		fatorial=1;
-		for(i=1;i<=contador;++i){//encontrando o fatorial
+		for(i=1;i<=contador;++i){ //encontrando o fatorial
 	    	fatorial*=i;
 	    }
 	    ++contador;
