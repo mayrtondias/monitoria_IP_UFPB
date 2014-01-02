@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 e depois sera impresso o resultado da expressao 1+(1/1!)+(1/2!)+
 (1/3!)+...+(1/N!).
 */
