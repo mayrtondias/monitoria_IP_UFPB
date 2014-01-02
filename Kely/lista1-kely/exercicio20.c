@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 e depois sera impresso todos os inteiros impares de 1 ate o valor
 inserido.
 */
