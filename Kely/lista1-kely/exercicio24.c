@@ -2,7 +2,7 @@
 da Universidade Federal da Paraiba
 */
 
-//Exercício 24
+//Exercicio 24
 
 
 #include <stdio.h>
@@ -12,7 +12,7 @@ int main()
 {	float n_f,soma=0;
 	int i,n;
 	do{
-    	printf("Dig. um número inteiro positivo: ");
+    	printf("Dig. um nï¿½mero inteiro positivo: ");
     	scanf("%f",&n_f);
 
 	}while(n_f<=0||n_f!=(int)n_f);
