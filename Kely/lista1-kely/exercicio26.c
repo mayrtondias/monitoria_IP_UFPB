@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 e depois sera impresso o numero de linhas da sequencia do Triangulo 
 de Pascal.
 */
