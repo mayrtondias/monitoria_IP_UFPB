@@ -34,7 +34,7 @@ int main(){
 	for(i=A;i<=B;++i){
 		contador=1;
 		contaResto=0;
-		while(contador<=i){//identificando a quantidade de divisores
+		while(contador<=i){ //identificando a quantidade de divisores
 			if((i%contador)==0){
 				++contaResto;
 			}
