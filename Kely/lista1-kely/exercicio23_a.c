@@ -7,7 +7,7 @@ inteiro positivo ao usuario.
 
 int main(){
 	
-	int A, B; //guarda o valor inserido
+	int A, B;  //guarda o valor inserido
 	float auxiliar; 
 	
 	do{
