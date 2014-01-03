@@ -21,6 +21,7 @@ int main(){
 	
 	//separando os digitos
 	numero=auxiliar;
+	
 	centena=numero/100;
 	resto=numero%100;
 	dezena=resto/10;
