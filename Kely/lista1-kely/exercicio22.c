@@ -4,7 +4,7 @@
 /* Esse trecho de codigo ira solicitar um numero inteiro ao usuario,
 de tal forma, que ele ira realizar os calculo para separar o digito 
 de centena, dezena e unidade, pois ao final dessas operacoes, os 
-digitos sera impresso de forma individual.
+digitos sera impresso de forma individual. 
 */
 
 int main(){
