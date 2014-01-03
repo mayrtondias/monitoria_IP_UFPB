@@ -8,7 +8,7 @@ todos os primos entre os mesmos.
 
 int main(){
 	
-	int A, B; //guarda o valor inserido
+	int A, B;  //guarda o valor inserido
 	int i,contador, contaResto;
 	float auxiliar; 
 	
