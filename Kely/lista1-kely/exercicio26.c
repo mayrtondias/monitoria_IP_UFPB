@@ -11,7 +11,7 @@ int main(){
 	int numero; 	//guarda o valor inserido
 	int contador=1;
 	float numerador, denominador; //valores do coeficiente
-	float elemento; //valor do elemento a ser impresso
+	float elemento;  //valor do elemento a ser impresso
 	float auxiliar; 
 	
 	do{
