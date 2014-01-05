@@ -3,7 +3,7 @@
 
 /* Esse trecho de codigo ira solicitar uma data ao usuario. 
 Sendo que o fomato desejado e DD/MM/AAAA, caso a data nao exita
-sera impressa data Invalida.
+sera impressa data invalida.
 */
 
 int main(){
