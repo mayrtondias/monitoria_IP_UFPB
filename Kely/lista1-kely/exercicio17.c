@@ -4,7 +4,7 @@
 /* Esse trecho de codigo ira solicitar um numero inteiro ao usuario.
 Ao armazenar o valor do numero, sera impresso todos os valores 
 maiores e que nao seja multiplos de 3 do numero armazenado. 
-a sequencia de valores ira para ao encontramos o primeiro valor
+A sequencia de valores ira para ao encontramos o primeiro valor
 multiplo de 10.
 */
 
