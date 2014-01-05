@@ -20,7 +20,7 @@ int main(){
 	    
 		numero=(int)auxiliar;
 	    
-		if(numero<=0){//condicao para finaliar o laco
+		if(numero<=0){ //condicao para finaliar o laco
 	    	break;
 	    }
 	    
