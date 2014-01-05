@@ -20,7 +20,7 @@ int main(){
 	numero=(int)auxiliar;
 	    
 	while(contador<=numero){
-		if((contador%2)==1){//identificando os numero impares
+		if((contador%2)==1){ //identificando os numero impares
 	    	printf("%d ",contador);
 	    }
 	    ++contador;
