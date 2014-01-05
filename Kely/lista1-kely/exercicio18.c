@@ -22,7 +22,7 @@ int main(){
 	if(numero<3){
 		printf("1\n");
 	}else{
-		while(contador<=numero){//encontrando o elemento do Fibonacci
+		while(contador<=numero){ //encontrando o elemento do Fibonacci
 			atual=ultimo+penultimo;
 			penultimo=ultimo;
 			ultimo=atual;
