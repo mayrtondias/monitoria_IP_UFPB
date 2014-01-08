@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Exercicio 01 - Fazer um programa que leia um número
+/* Exercicio 01 - Fazer um programa que leia um nï¿½mero
 e mostre o seu antecessor e o seu sucessor.
 */
 
