@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*Exercicio 03 - Fazer um programa que obtenha dois n�meros inteiros, x e
-y, mostre o quociente e o resto da divis�o inteira entre eles.
+y, mostre o quociente e o resto da divisao inteira entre eles.
 */
 
 /*Nesse exercicio podemos armazenar os dois valores inseridos pelo usuario,
