@@ -5,7 +5,7 @@
 e mostre o seu antecessor e o seu sucessor.
 */
 
-/*Um das forma para resolver esse problema e' guardando 
+/* Um das forma para resolver esse problema e' guardando 
 o valor inserido pelo usuario em uma variavel, pois ao
 passar dessa etapa podemos imprimir o valores do 
 antecessor e sucessor apenas diminuindo e adicionando 
