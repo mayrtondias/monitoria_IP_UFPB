@@ -3,7 +3,8 @@
 
 /* Nesse exemplo vamos analisar as saidas dos printf 
 dentro do laco de repeticao e observar o comportamento
-do mesmo. */
+do mesmo. 
+*/
 
 int main(){
 	
@@ -11,7 +12,7 @@ int main(){
 	
 	printf("A\n");
 	
-	/*Um dos pontos inportantes do laco de repeticao for
+	/* Um dos pontos inportantes do laco de repeticao for
 	e' quanto a ordem de exercucao das instrucoes contidas
 	nos seus parenteses, note que podemos ver dessa forma:
 	for(instrucao1;instrucao2;instrucao3)
@@ -30,12 +31,13 @@ int main(){
 	no exemplo abaixo podemos ver o funcionamento desses passo.
 	*/
 		
-	for (i = 0 ;i <= 5;i++)
+	for (i = 0 ;i <= 5;i++){
 		printf("%d ", i);
+	}
 	
 	printf("\nB\n");
 	
-	/*Apesar da variacao do laco for ser a mesma, o valor impresso 
+	/* Apesar da variacao do laco for ser a mesma, o valor impresso 
 	sera distinto, pois no exemplo anterior a funcao printf estava 
 	dentro do bloco e era exercutado ate da instrucao3 que no nosso 
 	caso e um incremento, mas no caso abaixo nao acontece dessa forma,
