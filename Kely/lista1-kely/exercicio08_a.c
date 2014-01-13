@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar tres numeros inteiros ao usuario
-de tal forma que ao final ira mostra qual dos numeros possui o maior valor
+/* Esse trecho de codigo ira solicitar tres numeros inteiros ao usuario
+de tal forma, que ao final ira mostra qual dos numeros possui o maior valor
 */
 
 int main(){
