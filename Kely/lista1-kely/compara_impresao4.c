@@ -3,7 +3,8 @@
 
 /* Nesse exemplo vamos analisar as saidas dos printf 
 dentro do laco de repeticao e observar o comportamento
-do mesmo. */
+do mesmo. 
+*/
 
 int main(){
 	
@@ -11,7 +12,7 @@ int main(){
 	
 	printf("A\n");
 	
-	/*Ao observar a estrutura condicional if abaixo, podemos
+	/* Ao observar a estrutura condicional if abaixo, podemos
 	notar, com um pouco de atencao que na condicao temos uma
 	instrucao de atribuicao, que pode ser falsa caso a variavel
 	receba o valor zero ou verdadeira caso receba um valor
@@ -23,7 +24,7 @@ int main(){
 	
 	printf("\n\nB\n");
 	
-	/*O mesmo fato acontece com a estrutura while abaixo, so 
+	/* O mesmo fato acontece com a estrutura while abaixo, so 
 	que nesse caso provocara um laco infinito, pois a condicao 
 	sempre sera verdadeira e nunca chegara em uma condicao 
 	falsa para que o laco termine.
