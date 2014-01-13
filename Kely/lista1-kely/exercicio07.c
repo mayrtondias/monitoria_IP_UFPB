@@ -1,6 +1,6 @@
 //Exercício 07
 
-/*Codigo disponibilizado pela professora Kely Diana Villacorta Villacorta
+/* Codigo disponibilizado pela professora Kely Diana Villacorta Villacorta
 da Universidade Federal da Paraiba
 */
 
