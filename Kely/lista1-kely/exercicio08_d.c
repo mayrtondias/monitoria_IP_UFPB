@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario,
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario,
 de tal forma, que ao final ira mostrar a soma dos n primeiros numeros
 impares natural. Usando o laco de repeticao for.
 */
