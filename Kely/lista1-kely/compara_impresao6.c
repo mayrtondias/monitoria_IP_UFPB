@@ -3,7 +3,8 @@
 
 /* Nesse exemplo vamos analisar as saidas dos printf 
 dentro do laco de repeticao e observar o comportamento
-do mesmo. */
+do mesmo. 
+*/
 
 int main(){
 	
@@ -11,7 +12,7 @@ int main(){
 	int a;
 	float b;
 	
-	/*Nos trechos abaixo podemos notar que ha varias 
+	/* Nos trechos abaixo podemos notar que ha varias 
 	interacoes no laco for ate que o valor da variavel 
 	em questao fique com o valor menor ou igual a zero
 	para que a condicao seja falsa. No entanto podemos
@@ -28,7 +29,7 @@ int main(){
 	
 	printf("\n\nB\n");
 	
-	/*Ja nesse trecho ha mais interacao do que a anterior,
+	/* Ja nesse trecho ha mais interacao do que a anterior,
 	pois o tipo da varivel e float deixando assim a mesma
 	com mais precisao. NO entanto, e sempre bom lembrar 
 	que se esses calculo fossem feito na matematica esse 
@@ -44,4 +45,4 @@ int main(){
 	printf("\n");
 	
 	return 0;
-}
+} 
