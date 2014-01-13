@@ -3,7 +3,8 @@
 
 /* Nesse exemplo vamos analisar as saidas dos printf 
 dentro do laco de repeticao e observar o comportamento
-do mesmo. */
+do mesmo. 
+*/
 
 int main(){
 	
@@ -11,7 +12,7 @@ int main(){
 	
 	printf("A\n");
 	
-	/*Ao analisar esse dois trecho abaixo podemos observar que 
+	/* Ao analisar esse dois trecho abaixo podemos observar que 
 	eles imprimem a mesma saida, no entanto, ha uma diferenca 
 	neles. No primeiro ha uma comparacao do  valor atual de x 
 	com o valor 0, mas quando olhamos sua declaracao, notamos 
