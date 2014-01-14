@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar um numero inteiro ao usuario,
+/* Esse trecho de codigo ira solicitar um numero inteiro ao usuario,
 de tal forma, que ele ira realizar os calculo para separar a unidade 
 de milhar, a centena, a dezena e a unidade, pois ao final dessa 
 operacoes, os digitos desse numero sera impresso de forma invertida.
