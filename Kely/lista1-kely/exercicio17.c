@@ -21,7 +21,7 @@ int main(){
 	numero=auxiliar;
 	
 	
-	while(1){//laco infinito
+	while(1){ //laco infinito
 		
 		if((numero%10)==0){
 			break; //finalizar o la�o
