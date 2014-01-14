@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*Esse trecho de codigo ira solicitar dois numeros
+/* Esse trecho de codigo ira solicitar dois numeros
 inteiro positivo ao usuario.Ao armazenar os dois valores
 sera feita uma comparacao se A<=B entao o programa ira
 soma todos os numeros pares entre os mesmos
