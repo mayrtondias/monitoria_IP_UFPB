@@ -8,7 +8,7 @@ e menor digitado.
 
 int main(){
 	
-	int numero; //guarda o valor inserido
+	int numero;  //guarda o valor inserido
 	int maior, menor, contador=1;
 	float auxiliar; 
 	
@@ -20,7 +20,7 @@ int main(){
 	    
 		numero=(int)auxiliar;
 	    
-		if(numero<=0){ //condicao para finaliar o laco
+		if(numero<=0){  //condicao para finaliar o laco
 	    	break;
 	    }
 	    
