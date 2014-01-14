@@ -14,7 +14,7 @@ int main(){
 	printf("Digite a data nesse formato DD/MM/AAAA\n");
     scanf("%d/%d/%d",&dia,&mes,&ano);
     
-	if(ano==2013){//verificacao do ano
+	if(ano==2013){ //verificacao do ano
 		switch(mes){
 			case 2:
 				if((dia>=1)&&(dia<=28)){
