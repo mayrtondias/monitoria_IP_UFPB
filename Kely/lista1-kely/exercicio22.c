@@ -19,7 +19,7 @@ int main(){
         scanf("%f",&auxiliar);
     }while((auxiliar!=(int)auxiliar)||(auxiliar<100)||(auxiliar>999));
 	
-	//separando os digitos
+	// separando os digitos
 	numero=auxiliar;
 	
 	centena=numero/100;
