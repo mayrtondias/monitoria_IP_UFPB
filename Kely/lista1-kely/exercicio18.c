@@ -8,7 +8,7 @@ da sequencia de Fibonacci.
 
 int main(){
 	
-	int numero; //guarda o valor inserido
+	int numero; // guarda o valor inserido
 	int atual, ultimo=1, penultimo=1, contador=3;
 	float auxiliar; 
 	
@@ -22,7 +22,7 @@ int main(){
 	if(numero<3){
 		printf("1\n");
 	}else{
-		while(contador<=numero){ //encontrando o elemento do Fibonacci
+		while(contador<=numero){ // encontrando o elemento do Fibonacci
 			atual=ultimo+penultimo;
 			penultimo=ultimo;
 			ultimo=atual;
@@ -30,7 +30,6 @@ int main(){
 		}
 		printf("%d\n",ultimo);
 	}
-	
-	
+
 	return 0;
 }
