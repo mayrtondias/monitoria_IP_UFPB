@@ -8,7 +8,7 @@ inserido.
 
 int main(){
 	
-	int numero; //guarda o valor inserido
+	int numero;  //guarda o valor inserido
 	int contador=1;
 	float auxiliar; 
 	
@@ -20,7 +20,7 @@ int main(){
 	numero=(int)auxiliar;
 	    
 	while(contador<=numero){
-		if((contador%2)==1){ //identificando os numero impares
+		if((contador%2)==1){  //identificando os numero impares
 	    	printf("%d ",contador);
 	    }
 	    ++contador;
