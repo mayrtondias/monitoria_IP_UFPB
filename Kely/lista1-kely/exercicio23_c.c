@@ -8,7 +8,7 @@ a soma todos os primos entre os mesmos.
 
 int main(){
 	
-	int A, B; //guarda o valor inserido
+	int A, B;  //guarda o valor inserido
 	int i,contador, contaResto;
 	int soma=0;
 	float auxiliar; 
@@ -40,7 +40,7 @@ int main(){
 			}
 			++contador;
 		}
-		if(contaResto==2){//somando os numeros primos
+		if(contaResto==2){ //somando os numeros primos
 			soma+=i;
 		}
 	}
