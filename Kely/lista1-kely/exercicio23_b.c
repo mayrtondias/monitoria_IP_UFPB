@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /* Esse trecho de codigo ira solicitar dois numeros
-inteiro positivo ao usuario.Ao final ira mostrar 
+inteiro positivo ao usuario. Ao final, ira mostrar 
 todos os primos entre os mesmos.
 */
 
