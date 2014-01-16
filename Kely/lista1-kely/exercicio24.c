@@ -1,5 +1,5 @@
 /* Codigo disponibilizado pela professora Kely Diana Villacorta Villacorta
-da Universidade Federal da Paraiba
+da Universidade Federal da Paraiba.
 */
 
 //Exercicio 24
