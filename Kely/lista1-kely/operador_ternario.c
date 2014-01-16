@@ -1,15 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*
-Esse codigo tem com objetivo mostrar o funcionamento do operador ternario.
+/* Esse codigo tem com objetivo mostrar o funcionamento do operador ternario.
 */
 
 int main(){
 	
 	int a = 1, b = 2, c = -5, x = 0;
 	
-	/*observe que a instrucao abaixo tem tres operadores ternarios alinhados
+	/* Observe que a instrucao abaixo tem tres operadores ternarios alinhados
 	onde podemos observar melhor usando os parentes dessa forma:
 	x = a < b ?( a < c ? a : c ): (b < c ? b : c);
 	ou seja, o perador ternario que esta no primeiro parenteses so' sera'
