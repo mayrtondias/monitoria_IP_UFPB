@@ -11,6 +11,7 @@ usando os 20 primeiros termos da série.
 */
 
 int main(){
+	
 	float s=0;
 	float numero;
 	int contador=0;
@@ -34,6 +35,7 @@ int main(){
 		}else{
 			s-=(numero/fatorial);
 		}
+		
 		++contador;
 	}
 	
