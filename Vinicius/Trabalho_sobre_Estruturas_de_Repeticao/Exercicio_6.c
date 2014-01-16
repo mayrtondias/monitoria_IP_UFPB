@@ -18,5 +18,17 @@ c) qual a media de acidentes de transito nas cidades com
 
 int main(){
 	
+	int codigoCidade;
+	int numVeiculoPasseio;
+	int acidentesVitimas;
+	int qtdeMaiorAcidente;
+	int qtdeMenorAcidente;
+	int cidadeMaiorAcidente;
+	int cidadeMenorAcidente;
+	float mediaVeiculos;
+	float mediaAcidentes;
+	
+	
+	
 	return 0;
 }
