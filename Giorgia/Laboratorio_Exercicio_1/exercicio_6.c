@@ -5,8 +5,6 @@
 y, mostre o quociente e o resto da divisao inteira entre eles.
 */
 
-
-
 int main(){
 	
 	int x, y; //para guardar o valor inserido pelo usuario
