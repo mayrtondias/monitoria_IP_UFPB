@@ -5,9 +5,7 @@
 y, mostre o quociente e o resto da divisao inteira entre eles.
 */
 
-
 int main(){
-	
 	
 	return 0;
 }
